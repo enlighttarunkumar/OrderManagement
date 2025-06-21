@@ -8,7 +8,7 @@ This project is a high-performance backend module simulating an **Order Manageme
 
 - ✅ Support for `New`, `Modify`, and `Cancel` order types
 - 🧠 Clean architecture using enums and structs for request-response management
-- 💡 Deterministic data handling without hashing to avoid collisions
+- 💡 Deterministic data handling preventing system from hashing collisions
 - 🧹 Lazy removal and modification logic for efficient in-place updates
 - 🧾 Extensible codebase for additional validations or persistence
 
